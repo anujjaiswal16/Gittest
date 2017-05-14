@@ -1,3 +1,1 @@
-nnbjb/jbjbb# Gittest.k
-cascavvnnlblblb
-n,mnmn.n
+This is my first git project.
